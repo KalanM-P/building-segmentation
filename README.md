@@ -5,6 +5,7 @@ Semantic segmentation model that identifies buildings in aerial imagery using U-
 ## Results
 
 | Dataset | Images | Validation IoU |
+|---|---|---|
 | Dubai Aerial Imagery | 72 | 27% |
 | Drone Aerial Imagery | 400 | **91%** |
 
