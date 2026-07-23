@@ -12,6 +12,8 @@ Semantic segmentation model that identifies buildings in aerial imagery using U-
 ## Setup
 
 ```bash
+git clone https://github.com/KalanM-P/building-segmentation.git
+cd building-segmentation
 pip install -r requirements.txt
 ```
 
